@@ -19,6 +19,15 @@ A versatile tool for reading, writing, managing, and emulating NFC cards on your
 - **iOS 14.0+**
 - **TrollStore Required**
 
+## 🗺️ Road Map
+
+- [x] NFC Driver for iOS 14.0+
+- [x] Read and write tags
+- [x] Emulate tags with UID & NDEF data
+- [ ] Stabilize the NFC driver (we are working on it)
+- [ ] Raw data reading and writing
+- [ ] Amiibo emulation with importable custom keys
+- [ ] Card decryption and encryption
 
 ## Core Features
 
