@@ -36,6 +36,12 @@ A versatile tool for reading, writing, managing, and emulating NFC cards on your
 - **Advanced Editing:** View and edit NDEF data, including URL records.
 - **Import & Backup:** Easily back up and restore your card library.
 
+## New Navigation Features
+
+- **Scroll Preservation:** The `TNFNavigationHelper` injection keeps your card list exactly where you left it, even with hundreds of entries.
+- **Horizontal Swiping:** Card detail screens gain left/right swipe (and arrow key) navigation with light preloading and a three-page cache cap for smooth transitions.
+- **Last Viewed Highlighting:** Returning to the list subtly highlights the card you just inspected so you can keep track of your place.
+
 ---
 
 ### 🌍 Join Our Community
