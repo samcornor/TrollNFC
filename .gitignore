@@ -1,0 +1,24 @@
+# Xcode and Swift project artefacts
+DerivedData/
+*.xcworkspace/xcuserdata/
+*.xcodeproj/xcuserdata/
+xcuserdata/
+build/
+*.ipa
+*.dSYM
+*.dSYM.zip
+
+# Package and deployment outputs
+*.deb
+*.tipa
+packages/
+
+# Theos build outputs
+.theos/
+obj/
+
+# Logs
+*.log
+
+# macOS filesystem
+.DS_Store
